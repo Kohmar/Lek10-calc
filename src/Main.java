@@ -10,6 +10,8 @@ public class Main {
         rez=calc.max(mas);
 
         System.out.println(rez);
+        System.out.println("Просто!");
+
     }
 
 
