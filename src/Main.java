@@ -11,7 +11,7 @@ public class Main {
 
         System.out.println(rez);
         System.out.println("Просто!");
-
+        System.out.println("Просто222!");
     }
 
 
